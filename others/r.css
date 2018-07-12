@@ -1,0 +1,39 @@
+.header{
+	background-color:red;
+        text-decoration:none;
+}
+.header img{
+	margin-left:0%;
+	margin-right:30%;
+	width:10%;
+	height:10%;
+        float:left;
+	background-color:blue;
+        border: 5px #1e90ff;
+        padding: 5px;
+       
+}
+div li{
+        float:left;
+        padding-left:10px;
+        text-decoration:none;
+	list-style-type:none;
+     }
+div.header img{
+   box-color:#00ced1;
+}
+
+div.maincontent .r:link{
+      text-decoration:none;}	
+.header .i img{
+	width: 3%;
+	
+}
+div.maincontent .i h1{
+	float:right;
+}
+.i{
+	border-style:groove;
+	border-bottom:20%;
+	border-width:3px;
+}
